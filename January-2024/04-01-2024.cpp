@@ -1,6 +1,6 @@
 /*
     Author : Vandana Kumari
-    Date : 03/01/2024
+    Date : 04/01/2024
     Problem : Find element occuring once when all other are present thrice
     Problem Link: https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1
     
